@@ -1,0 +1,12 @@
+C:\Users\vave1\Desktop\c#-.NET\ValentinaTrebbi_ProvaWeek8\ConsoleAppRubrica\ConsoleAppRubrica.Core\bin\Debug\net6.0\ConsoleAppRubrica.Core.deps.json
+C:\Users\vave1\Desktop\c#-.NET\ValentinaTrebbi_ProvaWeek8\ConsoleAppRubrica\ConsoleAppRubrica.Core\bin\Debug\net6.0\ConsoleAppRubrica.Core.dll
+C:\Users\vave1\Desktop\c#-.NET\ValentinaTrebbi_ProvaWeek8\ConsoleAppRubrica\ConsoleAppRubrica.Core\bin\Debug\net6.0\ConsoleAppRubrica.Core.pdb
+C:\Users\vave1\Desktop\c#-.NET\ValentinaTrebbi_ProvaWeek8\ConsoleAppRubrica\ConsoleAppRubrica.Core\obj\Debug\net6.0\ConsoleAppRubrica.Core.csproj.AssemblyReference.cache
+C:\Users\vave1\Desktop\c#-.NET\ValentinaTrebbi_ProvaWeek8\ConsoleAppRubrica\ConsoleAppRubrica.Core\obj\Debug\net6.0\ConsoleAppRubrica.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vave1\Desktop\c#-.NET\ValentinaTrebbi_ProvaWeek8\ConsoleAppRubrica\ConsoleAppRubrica.Core\obj\Debug\net6.0\ConsoleAppRubrica.Core.AssemblyInfoInputs.cache
+C:\Users\vave1\Desktop\c#-.NET\ValentinaTrebbi_ProvaWeek8\ConsoleAppRubrica\ConsoleAppRubrica.Core\obj\Debug\net6.0\ConsoleAppRubrica.Core.AssemblyInfo.cs
+C:\Users\vave1\Desktop\c#-.NET\ValentinaTrebbi_ProvaWeek8\ConsoleAppRubrica\ConsoleAppRubrica.Core\obj\Debug\net6.0\ConsoleAppRubrica.Core.csproj.CoreCompileInputs.cache
+C:\Users\vave1\Desktop\c#-.NET\ValentinaTrebbi_ProvaWeek8\ConsoleAppRubrica\ConsoleAppRubrica.Core\obj\Debug\net6.0\ConsoleAppRubrica.Core.dll
+C:\Users\vave1\Desktop\c#-.NET\ValentinaTrebbi_ProvaWeek8\ConsoleAppRubrica\ConsoleAppRubrica.Core\obj\Debug\net6.0\refint\ConsoleAppRubrica.Core.dll
+C:\Users\vave1\Desktop\c#-.NET\ValentinaTrebbi_ProvaWeek8\ConsoleAppRubrica\ConsoleAppRubrica.Core\obj\Debug\net6.0\ConsoleAppRubrica.Core.pdb
+C:\Users\vave1\Desktop\c#-.NET\ValentinaTrebbi_ProvaWeek8\ConsoleAppRubrica\ConsoleAppRubrica.Core\obj\Debug\net6.0\ref\ConsoleAppRubrica.Core.dll

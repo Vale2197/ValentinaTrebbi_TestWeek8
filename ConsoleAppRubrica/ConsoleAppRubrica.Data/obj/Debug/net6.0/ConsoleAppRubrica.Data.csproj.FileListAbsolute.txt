@@ -1,0 +1,15 @@
+C:\Users\vave1\Desktop\c#-.NET\ValentinaTrebbi_ProvaWeek8\ConsoleAppRubrica\ConsoleAppRubrica.Data\bin\Debug\net6.0\ConsoleAppRubrica.Data.deps.json
+C:\Users\vave1\Desktop\c#-.NET\ValentinaTrebbi_ProvaWeek8\ConsoleAppRubrica\ConsoleAppRubrica.Data\bin\Debug\net6.0\ConsoleAppRubrica.Data.dll
+C:\Users\vave1\Desktop\c#-.NET\ValentinaTrebbi_ProvaWeek8\ConsoleAppRubrica\ConsoleAppRubrica.Data\bin\Debug\net6.0\ConsoleAppRubrica.Data.pdb
+C:\Users\vave1\Desktop\c#-.NET\ValentinaTrebbi_ProvaWeek8\ConsoleAppRubrica\ConsoleAppRubrica.Data\bin\Debug\net6.0\ConsoleAppRubrica.Core.dll
+C:\Users\vave1\Desktop\c#-.NET\ValentinaTrebbi_ProvaWeek8\ConsoleAppRubrica\ConsoleAppRubrica.Data\bin\Debug\net6.0\ConsoleAppRubrica.Core.pdb
+C:\Users\vave1\Desktop\c#-.NET\ValentinaTrebbi_ProvaWeek8\ConsoleAppRubrica\ConsoleAppRubrica.Data\obj\Debug\net6.0\ConsoleAppRubrica.Data.csproj.AssemblyReference.cache
+C:\Users\vave1\Desktop\c#-.NET\ValentinaTrebbi_ProvaWeek8\ConsoleAppRubrica\ConsoleAppRubrica.Data\obj\Debug\net6.0\ConsoleAppRubrica.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vave1\Desktop\c#-.NET\ValentinaTrebbi_ProvaWeek8\ConsoleAppRubrica\ConsoleAppRubrica.Data\obj\Debug\net6.0\ConsoleAppRubrica.Data.AssemblyInfoInputs.cache
+C:\Users\vave1\Desktop\c#-.NET\ValentinaTrebbi_ProvaWeek8\ConsoleAppRubrica\ConsoleAppRubrica.Data\obj\Debug\net6.0\ConsoleAppRubrica.Data.AssemblyInfo.cs
+C:\Users\vave1\Desktop\c#-.NET\ValentinaTrebbi_ProvaWeek8\ConsoleAppRubrica\ConsoleAppRubrica.Data\obj\Debug\net6.0\ConsoleAppRubrica.Data.csproj.CoreCompileInputs.cache
+C:\Users\vave1\Desktop\c#-.NET\ValentinaTrebbi_ProvaWeek8\ConsoleAppRubrica\ConsoleAppRubrica.Data\obj\Debug\net6.0\ConsoleAppRubrica.Data.csproj.CopyComplete
+C:\Users\vave1\Desktop\c#-.NET\ValentinaTrebbi_ProvaWeek8\ConsoleAppRubrica\ConsoleAppRubrica.Data\obj\Debug\net6.0\ConsoleAppRubrica.Data.dll
+C:\Users\vave1\Desktop\c#-.NET\ValentinaTrebbi_ProvaWeek8\ConsoleAppRubrica\ConsoleAppRubrica.Data\obj\Debug\net6.0\refint\ConsoleAppRubrica.Data.dll
+C:\Users\vave1\Desktop\c#-.NET\ValentinaTrebbi_ProvaWeek8\ConsoleAppRubrica\ConsoleAppRubrica.Data\obj\Debug\net6.0\ConsoleAppRubrica.Data.pdb
+C:\Users\vave1\Desktop\c#-.NET\ValentinaTrebbi_ProvaWeek8\ConsoleAppRubrica\ConsoleAppRubrica.Data\obj\Debug\net6.0\ref\ConsoleAppRubrica.Data.dll
